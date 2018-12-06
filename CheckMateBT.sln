@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CheckMateBT", "CheckMateBT\CheckMateBT\CheckMateBT.csproj", "{CF276AF6-DC72-4493-A49B-A902013DFF8F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CheckMateBT.Android", "CheckMateBT\CheckMateBT.Android\CheckMateBT.Android.csproj", "{9D475145-3416-4111-B193-198E732F085F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CF276AF6-DC72-4493-A49B-A902013DFF8F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF276AF6-DC72-4493-A49B-A902013DFF8F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF276AF6-DC72-4493-A49B-A902013DFF8F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF276AF6-DC72-4493-A49B-A902013DFF8F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9D475145-3416-4111-B193-198E732F085F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9D475145-3416-4111-B193-198E732F085F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9D475145-3416-4111-B193-198E732F085F}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{9D475145-3416-4111-B193-198E732F085F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9D475145-3416-4111-B193-198E732F085F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9D475145-3416-4111-B193-198E732F085F}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {71E2B576-FB10-4C8C-BFF4-09FFF29892BB}
+	EndGlobalSection
+EndGlobal
